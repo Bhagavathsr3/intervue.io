@@ -46,8 +46,8 @@ Chrome browser
 ChromeDriver (path must be set if not globally available)
 
 
-GitHub Repository
-GitHub Link:
+Loom video (Execution)
+Loom video Link:https://www.loom.com/share/a1c1ef6124814ed8be2e45b4074a1a48?sid=4913180d-cf6c-4741-ad85-8f765f596035
 
 Author
 Bhagavath Shankar
