@@ -5,6 +5,7 @@
     <classes>
       <class name="Tests.Login">
         <methods>
+          <include name="logout"/>
           <include name="serachBar"/>
         </methods>
       </class> <!-- Tests.Login -->

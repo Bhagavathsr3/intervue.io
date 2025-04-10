@@ -39,6 +39,7 @@ public void serachBar() throws InterruptedException {
 		userclickAction("(//*[@class='anticon'])[3]");
 		Thread.sleep(2000);
 		userclickAction("//*[text()='Logout']");
+	
 	}
 }
 
