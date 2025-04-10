@@ -1,4 +1,4 @@
-This project showcases web automation testing built using Java, Selenium WebDriver, TestNG, and Maven. The test cases are designed for the INTERVUE QA Intern Assessment, focusing on functional flow and UI validations.
+This project showcases web automation testing built using Java, Selenium WebDriver, TestNG, and Maven. The test cases are designed for the INTERVUE QA Intern Assessment, focusing on functional flow.
 
 Tech Stack
 
@@ -21,6 +21,14 @@ src/
 ├── testng.xml # TestNG suite File to run test cases
 └── pom.xml
 
+How to Run the Project
+
+1. First, clone the repository to your local machine
+2. Move into the project directory
+3. Run the test suite
+Right-click on testng.xml and select Run 'testng.xml' (or similar, depending on your IDE).
+This will execute all the test cases defined in the testng.xml suite file.
+
 Key Features
 
 Execution using TestNG suite file
@@ -39,7 +47,6 @@ ChromeDriver (path must be set if not globally available)
 
 
 GitHub Repository
-
 GitHub Link:
 
 Author
